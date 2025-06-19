@@ -1,2 +1,1 @@
-# CarSalesReport
-Sales Report
+This project was developed using a dataset focused on car sales across various states in the United States. The primary goal was to analyze sales trends, identify top-performing car brands, and visualize meaningful patterns. The motivation behind this project stems from a personal interest in data visualization and dashboard creation. As someone who enjoys transforming raw data into clear and engaging reports, I saw this as an opportunity to apply and demonstrate my Power BI skills. The final report includes six visuals that help explain the data in a clear and simple way. These visuals show top car brands, sales by month, and other helpful trends.
