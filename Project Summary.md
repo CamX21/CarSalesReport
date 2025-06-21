@@ -72,7 +72,7 @@ Changed Data Types:
 I made sure each column had the correct data type (e.g., dates, numbers, text) so that calculations and visuals would work properly.
 
 Replaced Values:
-I cleaned up the data by replacing inconsistent or incorrect values, such as converting lowercase state codes to uppercase (e.g., "ga" to "GA").
+I cleaned up the data by replacing inconsistent or incorrect values, such as converting lowercase state codes to uppercase.
 
 Removed Unnecessary Data:
 I deleted columns and rows that weren’t useful for analysis to help keep the dataset focused and reduce clutter.
